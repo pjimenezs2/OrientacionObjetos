@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 public class Ejercicio1 {
+	
+	//Cambio del alumno 2 (Pablo Jiménez)
 		
 	// Constantes
 	private static final int EDAD_MAXIMA = 100;
@@ -9,6 +11,8 @@ public class Ejercicio1 {
 	private static final int LIMITE_JOVEN = 29;
 	
 	private static Scanner teclado = new Scanner(System.in);
+	
+	//Cambio del alumno 1 (Pablo Jiménez)
 	
 	public static void main(String[] args) {
 		// Variables
